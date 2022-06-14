@@ -3,7 +3,7 @@
 ## I’m currently learning stack:
 
 - Arcitecture
-  - [MVC](https://github.com/SalomatinSergey/UserInfo/tree/MVC_TableView)
+  - [MVC](https://github.com/SalomatinSergey/UserInfo/tree/main)
   - [MVVW](https://github.com/SalomatinSergey/UserInfo/tree/MVVM_TableVIew)
 
 - Data

@@ -6,7 +6,7 @@
   - [MVC](https://github.com/SalomatinSergey/UserInfo/tree/main)
   - [MVVW](https://github.com/SalomatinSergey/UserInfo/tree/MVVM_TableVIew)
 
-- Data
+- Database
   - [Realm](https://github.com/SalomatinSergey/PlaceFinder)
   - [Firebase](https://github.com/SalomatinSergey/ToDoWithFirebase) 
   - [CoreData](https://github.com/SalomatinSergey/ToDoList)

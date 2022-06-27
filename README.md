@@ -20,10 +20,9 @@
 
 ## How to reach me: 
 
-  - [@LinkedIn](https://www.linkedin.com/in/SalomatinSV)
   - [@Habr](https://career.habr.com/sith071)
   - [@Mail](mailto:salomatinsv8@gmail.com)
 
 <!---
-
+ - [@LinkedIn](https://www.linkedin.com/in/SalomatinSV)
 --->

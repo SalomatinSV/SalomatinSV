@@ -12,8 +12,8 @@
   - [CoreData](https://github.com/SalomatinSergey/ToDoList)
   
 - Networking 
-  - [URLSession](https://github.com/SalomatinSergey/Networking)
-  - [Alamofire](https://github.com/SalomatinSergey/Networking)
+  - [URLSession](https://github.com/SalomatinSergey/Networking/tree/master)
+  - [Alamofire](https://github.com/SalomatinSergey/Networking/tree/master)
   
 - Multithread 
   - GCD

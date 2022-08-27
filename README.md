@@ -11,9 +11,6 @@
   - [URLSession](https://github.com/SalomatinSergey/Networking/tree/master)
   - [Alamofire](https://github.com/SalomatinSergey/Networking/tree/master)
   
-- Multithread 
-  - GCD
-
 ## How to reach me: 
 
   - [@Habr](https://career.habr.com/sith071)

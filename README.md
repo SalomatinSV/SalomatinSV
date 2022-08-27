@@ -1,10 +1,6 @@
 # Hi, I’m @SalomatinSergey
 
-## I’m currently learning stack:
-
-- Arcitecture
-  - [MVC](https://github.com/SalomatinSergey/UserInfo/tree/main)
-  - [MVVW](https://github.com/SalomatinSergey/UserInfo/tree/MVVM_TableVIew)
+## My training projects:
 
 - Database
   - [Realm](https://github.com/SalomatinSergey/PlaceFinder)

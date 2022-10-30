@@ -1,5 +1,5 @@
 # Hi, I’m @SalomatinSergey
-
+<!---
 ## My training projects:
 
 - Database
@@ -16,6 +16,6 @@
   - [@Habr](https://career.habr.com/sith071)
   - [@Mail](mailto:salomatinsv8@gmail.com)
 
-<!---
+
  - [@LinkedIn](https://www.linkedin.com/in/SalomatinSV)
 --->
